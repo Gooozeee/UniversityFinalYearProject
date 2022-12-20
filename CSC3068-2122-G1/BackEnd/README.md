@@ -2,11 +2,11 @@
 
 # Full Architecture Diagram
 
-![Swift rehab software architecture diagram.png](./Swift rehab software architecture diagram.png)
+![Swift rehab software architecture diagram](https://user-images.githubusercontent.com/74770850/208656458-7f777d4f-3f04-401f-846d-d1445b91ae10.png)
 
 # User Management Service Diagram
 
-![API Architecture.drawio.png](./API Architecture.drawio.png)
+![API Architecture drawio](https://user-images.githubusercontent.com/74770850/208656499-340134f9-e66c-4865-9d47-dea95fc1b68d.png)
 
 
 ASP.NET Core web API made to work with the final year dissertation project Swift Rehab Application which was written in React Native. (Extended from the SwiftRehabAppBackEndMediatr repository)
